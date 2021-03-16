@@ -1,0 +1,84 @@
+@import url("/css/bootstrap-icons.css");
+@import url("http://cdn.persianfort.ir/Fonts/iransans/iransans.css");
+
+nav {
+
+    .navbar-brand {
+        padding: 0;
+        font-size: 1.5rem;
+        color: violet !important;
+        font-family: monospace;
+        width: 300px;
+
+        &::first-letter {
+            color: black !important;
+            font-size: 2rem;
+
+        }
+
+        &:hover {
+            color: white !important;
+            text-shadow: 0 0 15px purple;
+            font-weight: 900;
+            font-family: cursive;
+            transition: all .1s steps(100);
+
+            &::first-letter {
+                color: violet !important;
+            }
+        }
+    }
+
+    .nav-item {
+
+        margin-left: 10px;
+
+        &:hover {
+
+            .nav-link,
+            span {
+                color: purple !important;
+            }
+        }
+
+        span.bi {
+            // margin-top: 10px;
+            display: inline-block !important;
+            font-size: 1.3rem;
+        }
+
+        .nav-link {
+            display: inline-block;
+        }
+    }
+}
+
+.card {
+    width: 90%;
+    border-radius: 10px;
+
+    p {
+        margin-bottom: .3rem;
+    }
+
+    img {
+        border-radius: 10px 10px 0 0;
+        height: 250px !important;
+    }
+
+    .btn-buy {
+        width: 45%;
+        background-color: #00AF50 !important;
+        border-radius: 8px;
+        display: inline-block;
+    }
+}
+
+.product-page-wrapper {
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}

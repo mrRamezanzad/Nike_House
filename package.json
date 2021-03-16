@@ -1,0 +1,16 @@
+{
+  "name": "nike_house",
+  "version": "1.0.0",
+  "description": "a demo for products page and details page of products",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "author": "mrRamezanzad",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-icons": "^1.3.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}

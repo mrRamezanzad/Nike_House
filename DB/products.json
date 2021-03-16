@@ -1,0 +1,49 @@
+[{
+    "id": 1,
+    "name": "نایک براق",
+    "color": "سیاه و سفید",
+    "size": 46,
+    "type": "چرم و برچسب",
+    "price": 180000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm5Xy76c0gehyYeUCmTSq8nYQ-UOHhBmr10Q&usqp=CAU"
+}, {
+    "id": 2,
+    "name": "نایک سفید مدل زرنگی",
+    "color": "سفید-خاکستری",
+    "size": 44,
+    "type": "جیر و چرم",
+    "price": 299000,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5287d63c-03d9-48cb-b8ff-da578cdeb0fe/blazer-mid-77-vintage-mens-shoe-StCR8R.jpg"
+}, {
+    "id": 3,
+    "name": "نایک مدل شب ",
+    "color": "مشکی",
+    "size": 40,
+    "type": "چرم، چراغ دار",
+    "price": 450000,
+    "image": "https://s3.amazonaws.com/nikeinc/assets/84925/Sp19_BB_Nike_Adapt_20181218_NIKE0538_Detail5_rectangle_1600.jpg?1547068102"
+}, {
+    "id": 4,
+    "name": "نایک مدل رعد",
+    "color": "جنگی",
+    "size": 53,
+    "type": "جیر محکم",
+    "price": 210000,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7ad9a4ea-9825-44e9-8819-ad5cf1d5bf34/air-force-1-07-lx-shoe-025z6s.jpg"
+}, {
+    "id": 5,
+    "name": "کفش نایک سفید ساده",
+    "color": "سفید با برچسب مشکی",
+    "size": 42,
+    "type": "چرم نا مرغوب",
+    "price": 99000,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a42a5d53-2f99-4e78-a081-9d07a2d0774a/air-force-1-07-mens-shoe-xDpsTk.jpg"
+}, {
+    "id": 6,
+    "name": "کفش نایک مدل بهمن",
+    "color": "خاکستری سفید نارنجی",
+    "size": 52,
+    "type": "جیر",
+    "price": 120000,
+    "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b9abb4e9-c264-4840-ac59-9be362a60dee/air-force-1-07-mens-shoe-HMfSfl.jpg"
+}]
